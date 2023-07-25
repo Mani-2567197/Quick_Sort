@@ -1,0 +1,10 @@
+﻿Difference between Quick Sort and Merge Sort:
+---------------------------------------------
+Quick Sort:                                                Merge Sort:
+-----------                                                --------------
+1.Time Complexity of Quick Sort is                        1.Time Complexity of Quick Sort is 
+less Compared to Merge Sort.                                high Compared to Quick Sort.
+2.Array is having 20 elements it takes                     2.Array is having 20 elements it takes
+  time 0.463 milliseconds.                                   time 0.8603  milliseconds.
+3.Array is having 50 elements it takes                     3.Array is having 50 elements it takes 
+time 0.7887  milliseconds.                                  time 1.9087  milliseconds
